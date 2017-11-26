@@ -133,3 +133,6 @@ _______________
 
 [Integer Documentation](https://ruby-doc.org/core-2.3.3/Integer.html)
 
+EVERYTHING is an object. 
+- Integers are objects that come from the integer class called `fixednum`
+- Floats come in
