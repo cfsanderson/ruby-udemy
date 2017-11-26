@@ -1,0 +1,1 @@
+100.downto(1) { |i| puts "#{i} Cohen and Clover are awesome!!!" }

@@ -163,22 +163,48 @@ A method call can be followed by a pair of parens (i.e. JS)
 But when making a simple method call the common practice in not to use.
   - ex. `p 1.next`  
 
+Math operators (+, -, /, %, *, etc.) are really just method calls on objects. 
 
-
+Modulo and Division have their own methods (`.div` and `.modulo`)
 
 ### Intro to Object Methods with Parameters (The .between? Predicate Method)
+`intro_to_object_methods_with_params.rb`  
 
+Some methods can take params.  
+What is a parameter?
+- Methods on objects can accept one or more *inputs*
+- The technical word for an input is an *argument*
+- A *parameter* is the placeholder name assigned to an expected argument.
+
+Check out [Ruby-doc.org](http://ruby-doc.org/)
+- ex. http://ruby-doc.org/core-2.3.3/Comparable.html#method-i-between-3F  
+
+In this example
+- "between?" = Method
+- "(min, max)" = Params
+- "true or false" = Return value
+- in code block the `(1, 5)` = Arguments
 
 ### Float Methods
+`float_methods.rb`  
 
 
 ### Assignment Operators
+`assignments_and_reassignments.rb`  
 
 
 ### Introduction to Blocks with the .times Method
+`intro_to_blocks.rb`  
+A Ruby block is a group of statements that immediately follows a method call.  
+A block is NOT an object. More like and add-on that clarifies how that method should operate, adds detail to a method.  
 
 
 ### The .upto and .downto Methods
+`the_upto_and_downto_method.rb`  
 
 
 ### The .step Method
+`the_step_method.rb`  
+
+
+### Quiz = 100%
