@@ -157,6 +157,13 @@ EVERYTHING is an object.
 `less_than_and_greater_than_operators.rb`
 
 ### Arithmetic Methods and Basic Arguments
+`arithmetic_method.rb`
+A method call can be followed by a pair of parens (i.e. JS)
+  - ex. `p 1.next()`
+But when making a simple method call the common practice in not to use.
+  - ex. `p 1.next`  
+
+
 
 
 ### Intro to Object Methods with Parameters (The .between? Predicate Method)
