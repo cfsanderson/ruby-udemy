@@ -134,5 +134,45 @@ _______________
 [Integer Documentation](https://ruby-doc.org/core-2.3.3/Integer.html)
 
 EVERYTHING is an object. 
-- Integers are objects that come from the integer class called `fixednum`
-- Floats come in
+- Integers are objects that come from the integer class called `Fixednum`
+- Floats have their own class called `Float`
+
+
+### convert numbers to strings and vice versa
+`intro_to_numbers.rb`
+
+### intro to booleans
+`intro_to_booleans.rb`
+
+### the .odd? and .even? predicate methods
+`the_odd\?_and_even\?_methods.rb`
+
+### comparison with the Equality (==) operator
+`comparison_with_the_equality_operator.rb`
+
+### Comparison with the Inequality (!=) Operator
+
+
+
+### Less than and Greater than Operators
+
+
+### Arithmetic Methods and Basic Arguments
+
+
+### Intro to Object Methods with Parameters (The .between? Predicate Method)
+
+
+### Float Methods
+
+
+### Assignment Operators
+
+
+### Introduction to Blocks with the .times Method
+
+
+### The .upto and .downto Methods
+
+
+### The .step Method
