@@ -135,27 +135,26 @@ _______________
 
 EVERYTHING is an object. 
 - Integers are objects that come from the integer class called `Fixednum`
-- Floats have their own class called `Float`
+- Floats have their own class called `Float`  
 
 
 ### convert numbers to strings and vice versa
-`intro_to_numbers.rb`
+`intro_to_numbers.rb`  
 
 ### intro to booleans
-`intro_to_booleans.rb`
+`intro_to_booleans.rb`  
 
 ### the .odd? and .even? predicate methods
-`the_odd\?_and_even\?_methods.rb`
+`the_odd\?_and_even\?_methods.rb`  
 
 ### comparison with the Equality (==) operator
-`comparison_with_the_equality_operator.rb`
+`comparison_with_the_equality_operator.rb`  
 
 ### Comparison with the Inequality (!=) Operator
-
-
+`comparison_with_the_inequality_operator.rb`  
 
 ### Less than and Greater than Operators
-
+`less_than_and_greater_than_operators.rb`
 
 ### Arithmetic Methods and Basic Arguments
 
