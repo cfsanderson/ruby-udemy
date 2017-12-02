@@ -208,3 +208,41 @@ A block is NOT an object. More like and add-on that clarifies how that method sh
 
 
 ### Quiz = 100%
+
+
+## Section 5 notes
+### What is a Method?
+
+- A *method* is a grouped collection of Ruby statements that serves a purpose.
+- Methods are designed to be reused. Follow the golden rule: *DRY* (Don't Repeat Yourself).
+- Methods abstract the complexity of solving a problem.
+
+Example - Convert Military Time (1630) to Standard Time (04:30PM)  
+- Isolate first two numbers.
+- If first two numbers are less than or equal to 12, use them as the hour component and identify period as AM.
+- If first two numbers are greater than 12, subtract 12 to get the hour component and identify period as PM.
+- Isolate last two numbers. Use them to determine the minutes component of final result.
+- Concatentate hour component, a colon, the minutes componenet, and the period.
+
+### Method Definitions and Method Calls
+- A method is first *defined* with a set of Ruby statements.
+- The method is then *called*or *invoked*. These are programming terms for *run* or *execute*.
+
+### The "if" Statement (lecture #60)
+ [picture of two paths]
+
+#### What is a conditional?
+- The code we've written so far executes no matter what.
+- Programming is about defining the paths that a program can take.
+- A conditional is a  statement that controls if a piece of code executes.
+- A condition evaluates to a Boolean: true or false.
+- If the condition is met, the code executes. Otherwise, it is skipped.
+
+#### The Syntax of an `if` Statement
+
+```
+if condition
+  # Code to execute if TRUE
+end
+```
+

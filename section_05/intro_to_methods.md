@@ -1,4 +1,5 @@
-# What is a Method?
+# Section 5 notes
+## What is a Method?
 
 - A *method* is a grouped collection of Ruby statements that serves a purpose.
 - Methods are designed to be reused. Follow the golden rule: *DRY* (Don't Repeat Yourself).
@@ -14,4 +15,8 @@ Example - Convert Military Time (1630) to Standard Time (04:30PM)
 ## Method Definitions and Method Calls
 - A method is first *defined* with a set of Ruby statements.
 - The method is then *called*or *invoked*. These are programming terms for *run* or *execute*.
+
+## The "if" Statement
+ [picture of two paths]
+
 
