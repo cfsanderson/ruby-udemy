@@ -226,7 +226,7 @@ Example - Convert Military Time (1630) to Standard Time (04:30PM)
 
 ### Method Definitions and Method Calls
 - A method is first *defined* with a set of Ruby statements.
-- The method is then *called*or *invoked*. These are programming terms for *run* or *execute*.
+- The method is then *called* or *invoked*. These are programming terms for *run* or *execute*.
 
 ### The "if" Statement (lecture #60)
  [picture of two paths]
