@@ -4,7 +4,7 @@ i = 1
 
 while i <= 10
   puts i
-  # without incrementing it will create and infinite loop
+  # without incrementing it will create an infinite loop
   i += 1
 end
 
