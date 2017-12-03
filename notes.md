@@ -242,7 +242,7 @@ Example - Convert Military Time (1630) to Standard Time (04:30PM)
 
 ```
 if condition
-  # Code to execute if TRUE
+  # Code to execute if TRUE****
 end
 ```
 
